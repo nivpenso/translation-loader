@@ -31,7 +31,7 @@
     "url": "https://github.com/thomas-darling/translation-loader.git"
   },
   "dependencies": {
-    "@types/loader-utils": "^2.0.1",
+    "@types/loader-utils": "^2.0.3",
     "@types/minimatch": "^3.0.3",
     "chalk": "^4.1.0",
     "gulp-translate": "^1.5.9",
