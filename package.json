@@ -33,7 +33,7 @@
   "dependencies": {
     "@types/loader-utils": "^2.0.1",
     "@types/minimatch": "^3.0.3",
-    "chalk": "^4.1.0",
+    "chalk": "^4.1.2",
     "gulp-translate": "^1.5.9",
     "loader-utils": "^2.0.0",
     "minimatch": "^3.0.4"
